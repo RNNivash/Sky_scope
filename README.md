@@ -21,12 +21,12 @@ Welcome to SkyScope, your go-to mobile application for real-time weather updates
 
 ## Feedback and Support
 
-We are constantly working to improve SkyScope and would love to hear your feedback. If you have any suggestions, questions, or concerns, please feel free to contact us at [https://www.linkedin.com/in/nivash-r-n-sns/](mailto:rajnivash007@gmail.com).
+We are constantly working to improve SkyScope and would love to hear your feedback. If you have any suggestions, questions, or concerns, please feel free to contact us at [rajnivash007@gmail.com](mailto:rajnivash007@gmail.com).
 
 ## About
 
-SkyScope is developed by [https://github.com/RNNivash] 
+SkyScope is developed by [Nivash R N](https://github.com/RNNivash). 
 
-Follow us on (https://www.linkedin.com/in/nivash-r-n-sns/) for the latest updates and announcements.
+Follow us on [LinkedIn](https://www.linkedin.com/in/nivash-r-n-sns/) for the latest updates and announcements.
 
 Thank you for choosing SkyScope for your weather needs! Enjoy exploring the world with us.
