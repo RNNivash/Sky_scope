@@ -1,16 +1,32 @@
-# sky_scope
+# SkyScope - Realtime Weather Mobile Application
 
-A new Flutter project.
+Welcome to SkyScope, your go-to mobile application for real-time weather updates for your location and any city you desire. SkyScope not only provides you with the current temperature but also suggests activities based on the prevailing weather conditions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Real-time Weather Updates**: Get instant weather updates for your current location or any city worldwide.
+- **Temperature Display**: Know the current temperature accurately.
+- **Activity Suggestions**: Receive personalized suggestions for activities based on the current weather conditions.
+- **User-Friendly Interface**: The app offers a simple and intuitive interface for seamless navigation.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use
+   
+1. **Location Access**: Upon opening the app, grant location access to receive weather updates for your current location.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Search for City**: If you want to check the weather for a different city, simply enter the city name in the search bar.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **View Weather**: Once you've selected your location, the app will display the current temperature along with suggested activities for that temperature range.
+
+4. **Explore Activities**: Explore the suggested activities and plan your day accordingly based on the weather.
+
+## Feedback and Support
+
+We are constantly working to improve SkyScope and would love to hear your feedback. If you have any suggestions, questions, or concerns, please feel free to contact us at [https://www.linkedin.com/in/nivash-r-n-sns/](mailto:rajnivash007@gmail.com).
+
+## About
+
+SkyScope is developed by [https://github.com/RNNivash] 
+
+Follow us on (https://www.linkedin.com/in/nivash-r-n-sns/) for the latest updates and announcements.
+
+Thank you for choosing SkyScope for your weather needs! Enjoy exploring the world with us.
