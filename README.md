@@ -8,8 +8,7 @@ Welcome to SkyScope, your go-to mobile application for real-time weather updates
 - **Temperature Display**: Know the current temperature accurately.
 - **Activity Suggestions**: Receive personalized suggestions for activities based on the current weather conditions.
 - **User-Friendly Interface**: The app offers a simple and intuitive interface for seamless navigation.
-- (https://github.com/RNNivash/Sky_scope/assets/90308206/5eb20521-1f53-4e84-af8e-2e0f23a35243)
-
+![Simulator Screenshot - iPhone 15 - 2024-02-27 at 12 26 55](https://github.com/RNNivash/Sky_scope/assets/90308206/5eb20521-1f53-4e84-af8e-2e0f23a35243)
 ## How to Use
    
 1. **Location Access**: Upon opening the app, grant location access to receive weather updates for your current location.
